@@ -1,0 +1,22 @@
+# Vivado/Vitis HLS generated output
+.apc/
+solution*/.autopilot/
+solution*/.debug/
+solution*/csim/
+solution*/impl/
+solution*/syn/
+
+# HLS logs and generated metadata
+*.log
+*.jou
+*.str
+.vivado_hls_log_all.xml
+solution*/*.aps
+solution*/*_data.json
+
+# Local editor and OS files
+.vscode/
+*.swp
+*.tmp
+Thumbs.db
+Desktop.ini
