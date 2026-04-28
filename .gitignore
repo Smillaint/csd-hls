@@ -14,6 +14,19 @@ solution*/syn/
 solution*/*.aps
 solution*/*_data.json
 
+# Dynamics 365 Business Central AL generated files
+.alcache/
+.alpackages/
+.snapshots/
+.output/
+*.app
+!vivado_hls.app
+rad.json
+*.g.xlf
+*.bclicense
+*.flf
+TestResults.xml
+
 # Local editor and OS files
 .vscode/
 *.swp
